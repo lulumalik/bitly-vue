@@ -1,4 +1,4 @@
-# client
+# Vue Bitly
 
 ## Project setup
 ```
